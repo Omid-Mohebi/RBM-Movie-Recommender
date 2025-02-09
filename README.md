@@ -127,7 +127,7 @@ To run this project locally, follow these steps:
 
 4. Run the Jupyter Notebook or Python script:
    ```bash
-   jupyter notebook movie_recommendation_rbm.ipynb
+   jupyter notebook src.ipynb
    ```
 
 ---
